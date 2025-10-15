@@ -4,8 +4,7 @@
 
 
 
-V-Ball (VoiceBall) is a DIY throwable act of defiance housed in a tennis ball, designed to play audio in an endless loop. It’s a low-tech, unconnected object designed against censorship and surveillance.
-
+V-Ball (VoiceBall) is a DIY throwable act of defiance housed in a tennis ball, designed to play audio in an endless loop.  It’s a low-tech, unconnected object amplifying muted voices against censorship, surveillance and oppression.
 ## **DISCLAIMER**
 
 This project is shared as **an open-source artwork and educational resource** in the public domain.  
@@ -73,11 +72,15 @@ Wire everything as the schematic shows. Cables for the switch should be relative
 
 Plug your SD Card in. Test your circuit. Stuff everything inside the ball. Stick the wires for the switch from the holes you drilled. To make it more durable you can hot glue the speaker while closing.
 
-  
+ ***6. Attend Protest*** 
+
+Bring some tape with you to secure your V-Ball.
+
+(optional) Paint V-Ball to black to make it harder to detect.
 
 
 
-***6. Throw it!***
+***7. Throw it!***
 
   
 
