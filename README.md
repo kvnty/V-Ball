@@ -1,11 +1,12 @@
 # V-Ball
 
+![image alt](https://github.com/kvnty/V-Ball/blob/fb003c693cbc39c9775bf2c9518abf5887561129/vball-logo.jpg)
 
 
 
 V-Ball is a DIY throwable act of defiance housed in a tennis ball, designed to play audio in a continuous loop. It’s a low-tech, unconnected object designed against censorship and surveillance.
 
-**DISCLAIMER**
+## **DISCLAIMER**
 
 This project is shared as **an open-source artwork and educational resource** in the public domain.  
 It is intended to explore the relationship between technology, sound, and resistance as **a critical and artistic statement** — **not as a tool for harm or illegal activity**.
@@ -25,60 +26,62 @@ Any use, modification, or redistribution of this design is at the sole responsib
 
   
 
-**1. Flash Sd Card / Upload your .mp3 file**
+***1. Flash Sd Card / Upload your .mp3 file***
 
   
 
-*DFPlayer does not support SD cards bigger than 32GB. Flash your SD card to FAT32. Upload your sound (only mp3). Name it ‘0001.mp3’.*
+DFPlayer does not support SD cards bigger than 32GB. Flash your SD card to FAT32. Upload your sound (only mp3). Name it ‘0001.mp3’.
 
   
 
-**2. Upload Code to Arduino**
+***2. Upload Code to Arduino***
 
   
 
-*Use USB-TTL Module to upload your code to Arduino.*
+Use USB-TTL Module to upload your code to Arduino.
 
   
 
 
-**3. Prepare the Ball**
+***3. Prepare the Ball***
 
   
 
-*Place your speaker on the tennis ball and draw an outline. Cut your ball accordingly. Drill two holes on top for the activator switch.*
+Place your speaker on the tennis ball and draw an outline. Cut your ball accordingly. Drill two holes on top for the activator switch.
 
-  
-  
   
   
   
   
   
+  
+  
 
-**4. Make the Circuit**
+***4. Make the Circuit***
 
   
 
-*Wire everything as the schematic shows. Cables for the switch should be relatively long.*
+Wire everything as the schematic shows. Cables for the switch should be relatively long.
+
+![image alt](https://github.com/kvnty/V-Ball/blob/fb003c693cbc39c9775bf2c9518abf5887561129/circuit.jpg)
 
   
 
-**5. Assemble V-Ball**
+***5. Assemble V-Ball***
 
   
 
-*Plug your SD Card in. Test your circuit. Stuff everything inside the ball. Stick the wires for the switch from the holes you drilled. To make it more durable you can hot glue the speaker while closing.*
+Plug your SD Card in. Test your circuit. Stuff everything inside the ball. Stick the wires for the switch from the holes you drilled. To make it more durable you can hot glue the speaker while closing.
 
   
 
 
 
-**6. Throw it!**
+***6. Throw it!***
 
   
 
-*Tape sticking switch wires to activate V-Ball. Throw it to your desired oppressor.*
+Tape sticking switch wires to activate V-Ball. Throw it to your desired oppressor.
 
   
 
