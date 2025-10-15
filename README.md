@@ -81,7 +81,7 @@ Plug your SD Card in. Test your circuit. Stuff everything inside the ball. Stick
 
   
 
-Tape sticking switch wires to activate V-Ball. Throw it to your desired oppressor.
+Tape sticking switch wires to activate V-Ball. Wait for the activation. Your sound will loop endlessly until the battery dies. Throw it to your desired oppressor.
 
   
 
