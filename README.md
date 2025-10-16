@@ -8,9 +8,9 @@ V-Ball (VoiceBall) is a DIY throwable act of defiance housed in a tennis ball, d
 ## **DISCLAIMER**
 
 This project is shared as **an open-source artwork and educational resource** in the public domain.  
-It is intended to explore the relationship between technology, sound, and resistance as **a critical and artistic statement** — **not as a tool for harm or illegal activity**.
+It is intended to explore the relationship between technology, sound, and resistance as a critical and artistic statement.
 
-Any use, modification, or redistribution of this design is at the sole responsibility of the user.
+**Any use, modification, or redistribution of this design is at the sole responsibility of the user.**
 
 
 ## HOW TO MAKE A V-BALL
