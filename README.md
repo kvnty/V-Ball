@@ -4,7 +4,7 @@
 
 
 
-V-Ball (VoiceBall) is a DIY throwable act of defiance housed in a tennis ball, designed to play audio in an endless loop.  It’s a low-tech, unconnected object amplifying muted voices against censorship, surveillance and oppression.
+V-Ball (Voiceball) is a DIY throwable act of defiance housed in a tennis ball, designed to play audio in a continuous loop. It’s a low-tech, open-source, unconnected object amplifying muted voices against censorship, surveillance and oppression.
 ## **DISCLAIMER**
 
 This project is shared as **an open-source artwork and educational resource** in the public domain.  
