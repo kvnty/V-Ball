@@ -1,18 +1,19 @@
 #include <SoftwareSerial.h>
-#include <DFRobotDFPlayerMini.h>
+#include "DFRobotDFPlayerMini.h"
 
-SoftwareSerial mySerial(10, 11);
-DFRobotDFPlayerMini player;
+SoftwareSerial mySoftwareSerial(10, 11); 
+DFRobotDFPlayerMini myDFPlayer;
 
 void setup() {
-  mySerial.begin(9600);
+
   Serial.begin(9600);
-  if (!player.begin(mySerial)) {
-    Serial.println("DFPlayer not found");
-    while (true) { delay(1000); } 
-  }
-  player.volume(30);  
-  player.loop(1);      
+  mySoftwareSerial.begin(9600); 
+  
+  delay(500); 
+
+  myDFPlayer.volume(30); 
+  myDFPlayer.play(1); 
+  myDFPlayer.loop(1); 
 }
 
 void loop() {
