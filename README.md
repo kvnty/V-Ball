@@ -29,7 +29,8 @@ It is intended to explore the relationship between technology, sound, and resist
 
   
 
-DFPlayer does not support SD cards bigger than 32GB. Flash your SD card to FAT32. Upload your sound (only mp3). Name it ‘0001.mp3’.
+DFPlayer does not support SD cards bigger than 32GB. Flash your SD card to FAT32. Make a folder named “mp3” (all lowercase).  Upload your mp3 file inside and name it 0001 (4 digits).
+
 
   
 
@@ -60,7 +61,8 @@ Place your speaker on the tennis ball and draw an outline. Cut your ball accordi
 
   
 
-Wire everything as the schematic shows. Cables for the switch should be relatively long.
+Make sure your voltage booster outputs 5V. Wire everything as the schematic shows.
+
 
 ![image alt](https://github.com/kvnty/V-Ball/blob/fb003c693cbc39c9775bf2c9518abf5887561129/circuit.jpg)
 
@@ -72,19 +74,14 @@ Wire everything as the schematic shows. Cables for the switch should be relative
 
 Plug your SD Card in. Test your circuit. Stuff everything inside the ball. Stick the wires for the switch from the holes you drilled. To make it more durable you can hot glue the speaker while closing.
 
- ***6. Attend Protest*** 
-
-Bring some tape with you to secure your V-Ball.
-
 (optional) Paint V-Ball to black to make it harder to detect.
 
 
-
-***7. Throw it!***
+***6. Throw it!***
 
   
 
-Tape sticking switch wires to activate V-Ball. Wait for the activation. Your sound will loop endlessly until the battery dies. Throw it to your desired oppressor.
+Twist the sticking wires to activate V-Ball. Wait for the activation. Your sound will loop endlessly until the battery dies. Throw it to your desired oppressor.
 
   
 
